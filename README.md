@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Chanwoo Park</h1>
-<h3 align="left">A passionate frontend developer from South Korea</h3>
+<h3 align="left">A passionate developer/engineer from South Korea</h3>
 
 - 📫 How to reach me **jacobe2019@gmail.com**
 
